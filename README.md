@@ -4,7 +4,7 @@ An *iOS Expense Tracker* application built with ❤️ using *Swift, **SwiftUI, 
 
 ---
 ## 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/e3b094db-5f3e-440c-b95d-39c6af5ff7e9)
+![Image](https://github.com/user-attachments/assets/b3c2069b-b6f5-4c37-aca5-e50102d7c5de)
 
 ---
 
